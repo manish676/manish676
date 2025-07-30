@@ -50,6 +50,13 @@
   <img src="https://img.shields.io/badge/Netcat-555555?style=for-the-badge"/>
 </p>
 
+## 🎓 Certifications:
+<p align="left">
+  <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TryHackMe%20-%20Top%205%-darkgreen?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Udemy%20Cybersecurity-30+hrs%20training-blueviolet?style=for-the-badge&logo=udemy&logoColor=white"/>
+</p>
+
 ---
 
 ## 📊 GitHub Stats:
