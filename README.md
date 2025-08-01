@@ -1,6 +1,6 @@
 <!-- Typing Header with Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Ethical+Hacker;Python+Ninja;Bug+Bounty+Hunter;Cyber+Explorer" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Ethical+Hacker;Python+Ninja;Pentester+Tester;CyberSecurity" alt="Typing Header" />
 </h1>
 
 <p align="center">
