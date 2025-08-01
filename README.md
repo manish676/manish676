@@ -1,21 +1,20 @@
 <!-- Typing Header with Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Ethical+Hacker;Python+Ninja;Bug+Bounty+Hunter;Cyber+Explorer" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Manish+%F0%9F%91%8B;Cybersecurity+%7C+Python+Dev;Bug+Bounty+Hunter+%7C+Top+5%25+TryHackMe;Welcome+to+my+Digital+Lab+%F0%9F%94%8E" alt="Typing Header" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/A6aHBCFqlE0Rq/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="280" />
 </p>
 
 ---
 
-## 💀 About Me
+## 💫 About Me
 
-- 🧠 Thinks like a hacker, builds like a coder  
-- 🔍 Hunting bugs while sipping black coffee  
-- 🔐 Passionate about breaking & securing systems  
-- 🧰 Automating recon to outpace the noise  
-- ⚡ Zero-day mind with a weekend warrior heart  
+- 👨‍💻 Cybersecurity Explorer & Python Enthusiast  
+- 🔎 Passionate about Hacking Ethically & Learning Continuously  
+- 🛠️ I automate recon & hunt bugs for fun  
+- ⚔️ Hacking flags is my weekend hobby 😎  
 
 ---
 
