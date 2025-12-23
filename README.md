@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=650&lines=Offince Security;Pentester Tester;Python+Developer;" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=Offensive+Security;Pentester;Python+Developer;Bug+Bounty+Hunter" />
 </h1>
 
 <p align="center">
-  <em><strong>Web • API • Network Security • AI • Bug Bounty</strong></em>
+  <em><strong>Web • API • Network Security • Automation • AI</strong></em>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://tryhackme.com/p/m9x01">
-    <img src="https://img.shields.io/badge/TryHackMe-Top%205%25-FF0000?style=for-the-badge&logo=tryhackme"/>
+    <img src="https://img.shields.io/badge/TryHackMe-Top%203-FF0000?style=for-the-badge&logo=tryhackme"/>
   </a>
   <a href="https://www.linkedin.com/in/manish666/">
     <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin"/>
@@ -23,35 +23,23 @@
 
 ## 🧠 Profile
 
-Offensive Security Researcher & Ethical Hacker specializing in
-Web, API, and Network Exploitation. 
-<strong>Web, API, and Network Security</strong>.
+**Ethical Hacker & Offensive Security Researcher** with expertise in  
+**Web, API, and Network Security**.  
 
-- 🐞 Bug Bounty Hunter & VAPT Practitioner  
-- 🏆 TryHackMe Top 3 National Rank for offensive security
-- ⚡ Expert in reconnaissance, exploitation, and automation
+- 🐞 Verified Bug Bounty Hunter with multiple exploits  
+- 🏆 TryHackMe **Top 3 National Rank**  
+- ⚡ Recon, exploitation, automation, and security tooling expert  
 
 ---
 
 ## 🛠️ Core Expertise
 
 ### 🔴 Offensive Security
-![Web](https://img.shields.io/badge/Web%20Pentesting-Advanced-red?style=for-the-badge)
-![API](https://img.shields.io/badge/API%20Security-Advanced-red?style=for-the-badge)
-![Network](https://img.shields.io/badge/Network%20Pentesting-Intermediate-red?style=for-the-badge)
-![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-Advanced-red?style=for-the-badge)
+![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-Advanced-red?style=for-the-badge)
+![API Security](https://img.shields.io/badge/API%20Security-Advanced-red?style=for-the-badge)
+![Network Pentesting](https://img.shields.io/badge/Network-Intermediate-red?style=for-the-badge)
+![Recon & Enumeration](https://img.shields.io/badge/Recon%20%26%20Enumeration-Advanced-red?style=for-the-badge)
 ![VAPT](https://img.shields.io/badge/VAPT-Advanced-red?style=for-the-badge)
-
----
-
-## 📊 Skill Statistics
-
-### 🧪 Security Domains
-![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-88%25-FF0000?style=for-the-badge)
-![API Security](https://img.shields.io/badge/API%20Security-85%25-FF0000?style=for-the-badge)
-![Network Pentesting](https://img.shields.io/badge/Network%20Pentesting-80%25-FF0000?style=for-the-badge)
-![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability%20Analysis-85%25-FF0000?style=for-the-badge)
-![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-90%25-FF0000?style=for-the-badge)
 
 ---
 
@@ -65,12 +53,11 @@ Web, API, and Network Exploitation.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-80%25-FF0000?style=for-the-badge&logo=plotly)
 ![Bash](https://img.shields.io/badge/Bash-85%25-FF0000?style=for-the-badge&logo=gnubash)
 ![Git](https://img.shields.io/badge/Git-90%25-FF0000?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VS%20Code-85%25-FF0000?style=for-the-badge&logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/Linux-90%25-FF0000?style=for-the-badge&logo=linux)
 
 ---
 
-## 🔴 Security Tools
+### 🔴 Security Tools
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-FF0000?style=for-the-badge&logo=kalilinux)
 ![Nmap](https://img.shields.io/badge/Nmap-Advanced-red?style=for-the-badge&logo=nmap)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-Advanced-red?style=for-the-badge&logo=burpsuite)
@@ -87,11 +74,21 @@ Web, API, and Network Exploitation.
 
 ## 🎓 Certifications
 ![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%205%25-red?style=for-the-badge)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203-red?style=for-the-badge)
 ![Udemy Cybersecurity](https://img.shields.io/badge/Udemy-Cybersecurity-blueviolet?style=for-the-badge)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manish676&show_icons=true&theme=_
+  <img src="https://github-readme-stats.vercel.app/api?username=manish676&show_icons=true&theme=radical"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=manish676&theme=radical"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish676&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 👁️ Profile Views
+![Views](https://visitcount.itsvg.in/api?id=manish676&icon=3&color=FF0000)
