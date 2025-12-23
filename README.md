@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=650&lines=Manish+Kumar;Ethical+Hacker+%26+Pentester;Python+Developer;Cybersecurity+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=650&lines=Offince Security;Pentester Tester;Python+Developer;" />
 </h1>
 
 <p align="center">
-  <em><strong>Web • API • Network Security • Automation • Bug Bounty</strong></em>
+  <em><strong>Web • API • Network Security • AI • Bug Bounty</strong></em>
 </p>
 
 <p align="center">
@@ -23,14 +23,13 @@
 
 ## 🧠 Profile
 
-Ethical Hacker & Penetration Tester specializing in  
+Offensive Security Researcher & Ethical Hacker specializing in
+Web, API, and Network Exploitation. 
 <strong>Web, API, and Network Security</strong>.
 
 - 🐞 Bug Bounty Hunter & VAPT Practitioner  
-- 🏆 TryHackMe **Top 5%**  
-- ⚡ Focus on exploitation, recon, and automation  
-- 🧑‍💻 Python Developer | Django | Data Analysis (Numpy, Pandas, Matplotlib)  
-- 🎯 Goal: Full-time Offensive Security Professional  
+- 🏆 TryHackMe Top 3 National Rank for offensive security
+- ⚡ Expert in reconnaissance, exploitation, and automation
 
 ---
 
