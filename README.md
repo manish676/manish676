@@ -49,8 +49,6 @@ Offensive Security Researcher focused on **Web, API, Network, and Active Directo
 
 ### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-FF0000?style=for-the-badge&logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-FF0000?style=for-the-badge&logo=csharp)
 ![Bash](https://img.shields.io/badge/Bash-FF0000?style=for-the-badge&logo=gnubash)
 ![Linux](https://img.shields.io/badge/Linux-FF0000?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git)
